@@ -1,0 +1,13 @@
+Repository is the collection of the versions
+
+files into add into the staging area so that we can remove the unnecceasry file from the git local storage
+
+A mean that file comes into the staging area
+
+U means in the no the staging area
+
+git add means that comes file comes in the staging area
+
+git status checks about the wheteher the file is tracked or not
+
+git rm --cached "file name" for comes out of the staging area
