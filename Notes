@@ -15,3 +15,4 @@ git rm --cached "file name" for comes out of the staging area
 to go into the staging area to the commiting are we need to write the command "git commit" for adding the message.
 
 git branch now it is new to add the update brach to master branch.
+for going into the another timeline we need to chamg the current branch
