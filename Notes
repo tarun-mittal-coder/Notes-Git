@@ -18,3 +18,6 @@ git branch now it is new to add the update brach to master branch.
 for going into the another timeline we need to chamg the current branch
 
 any branch form the file by using the command "git branch -d file.name"
+
+add git bash in github by using the command that is "git remote add origin <url>"
+and then "git push -u origin master"
